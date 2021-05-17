@@ -3,5 +3,5 @@ Este script .bat lista en un archivo txt, Todos lo nombres de archivos de una ca
 
 El script se debe ejecutar dentro de la carpeta que se desea obtener los nombres de los arhivos todos a un txt
 
-dir /a /b /s /-p /o:gen >C:\Users\Flavio_Soto\Desktop\listado.txt
-start notepad C:\Users\Flavio_Soto\Desktop\listado.txt
+dir /a /b /s /-p /o:gen >C:\Users\name_user\Desktop\listado.txt
+start notepad C:\Users\name_user\Desktop\listado.txt
